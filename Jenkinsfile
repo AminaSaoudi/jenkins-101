@@ -9,7 +9,7 @@ pipeline {
                 echo "Building..."
                 sh '''
                 cd myapp
-                apt install python3-fire
+                pip install fire
                 '''
             }
         }
