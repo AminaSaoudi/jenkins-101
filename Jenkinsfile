@@ -9,7 +9,6 @@ pipeline {
                 echo "Building..."
                 sh '''
                 cd myapp
-                pip install fire
                 '''
             }
         }
