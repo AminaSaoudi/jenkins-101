@@ -1,2 +1,2 @@
 
-print("HELL world")
+print("HELLO world")
